@@ -1,18 +1,12 @@
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png">
 </p>
 
 ## 宗旨
 
-GitHubDaily 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
+炎炎课堂将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。
 
-- 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
-- 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
 
-> 欢迎到 [Issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，让更多人知道你的项目。
-
----
 
 ## 2018 年复盘
 
